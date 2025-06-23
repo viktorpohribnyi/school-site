@@ -66,7 +66,8 @@ function Testimonials() {
         </div>
 
         <div className="alert alert-info shadow-sm text-center">
-          Ми завжди раді зворотному зв’язку! Допоможіть нам стати ще кращими ❤️
+        <p className="mb-2">Ми завжди раді зворотному зв’язку! Допоможіть нам стати ще кращими ❤️</p>
+        <a href="/feedbackform" className="btn btn-outline-primary btn-sm">Залишити відгук</a>
         </div>
       </Fade>
     </div>
