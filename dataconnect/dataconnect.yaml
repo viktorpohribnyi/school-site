@@ -1,0 +1,12 @@
+specVersion: "v1"
+serviceId: "school-site"
+location: "us-central1"
+schema:
+  source: "./schema"
+  datasource:
+    postgresql:
+      database: "fdcdb"
+      cloudSql:
+        instanceId: "school-site-fdc"
+      # schemaValidation: "COMPATIBLE"
+connectorDirs: ["./connector"]

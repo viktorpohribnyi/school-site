@@ -1,0 +1,24 @@
+.testimonials-page {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.carousel-box {
+  background: linear-gradient(145deg, #f2f2f2, #ffffff);
+  transition: transform 0.3s ease;
+}
+
+.carousel-box:hover {
+  transform: scale(1.02);
+}
+
+.gallery-img {
+  transition: transform 0.3s ease;
+  object-fit: cover;
+  height: 250px;
+  width: 100%;
+}
+
+.gallery-img:hover {
+  transform: scale(1.03);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+}

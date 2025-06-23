@@ -1,0 +1,16 @@
+.calendar-page {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.react-calendar {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+  padding: 1rem;
+}
+
+.react-calendar__tile--active {
+  background-color: #0d6efd !important;
+  color: white !important;
+  border-radius: 8px;
+}
