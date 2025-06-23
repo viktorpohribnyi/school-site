@@ -10,7 +10,6 @@ function Navbar({ darkMode, setDarkMode }) {
         </button>
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav me-auto">
-            <li className="nav-item"><Link className="nav-link" to="/">Головна</Link></li>
             <li className="nav-item"><Link className="nav-link" to="/about">Про школу</Link></li>
             <li className="nav-item"><Link className="nav-link" to="/news">Новини</Link></li>
             <li className="nav-item"><Link className="nav-link" to="/teachers">Учителі</Link></li>
