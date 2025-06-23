@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/viktorpohribnyi/school-site",
+  "homepage": "https://viktorpohribnyi.github.io/school-site/",
   "name": "school-site",
   "version": "0.1.0",
   "private": true,
@@ -29,11 +29,11 @@
     "yup": "^1.6.1"
   },
   "scripts": {
-  "start": "react-scripts start",
-  "build": "react-scripts build",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
-},
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
