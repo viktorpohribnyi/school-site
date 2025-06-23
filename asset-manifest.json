@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/viktorpohribnyi/school-site/static/css/main.96620df2.css",
-    "main.js": "/viktorpohribnyi/school-site/static/js/main.f2b78934.js",
-    "static/js/453.5fd958c9.chunk.js": "/viktorpohribnyi/school-site/static/js/453.5fd958c9.chunk.js",
-    "static/media/photo_5.jpg": "/viktorpohribnyi/school-site/static/media/photo_5.d5e7b34d3f7c3d7e073b.jpg",
-    "static/media/photo_3.jpg": "/viktorpohribnyi/school-site/static/media/photo_3.53183b0373ef9b5ad8ca.jpg",
-    "static/media/gallery_1.jpg": "/viktorpohribnyi/school-site/static/media/gallery_1.dfa31091b144acd7a408.jpg",
-    "static/media/photo_8.jpg": "/viktorpohribnyi/school-site/static/media/photo_8.b737cc6976f629d39ba3.jpg",
-    "static/media/teacher_3.jpg": "/viktorpohribnyi/school-site/static/media/teacher_3.78f36b07570f1cf7589f.jpg",
-    "static/media/photo_1.jpg": "/viktorpohribnyi/school-site/static/media/photo_1.7238116f5b0e3933b609.jpg",
-    "static/media/teacher_1.jpg": "/viktorpohribnyi/school-site/static/media/teacher_1.fef8b71649e06a89483c.jpg",
-    "static/media/photo_4.jpg": "/viktorpohribnyi/school-site/static/media/photo_4.4dda5f39482ccb48ae2b.jpg",
-    "static/media/photo_7.jpg": "/viktorpohribnyi/school-site/static/media/photo_7.ce128071a56d09bded9b.jpg",
-    "static/media/photo_6.jpg": "/viktorpohribnyi/school-site/static/media/photo_6.5a8fa9befda4b675af5b.jpg",
-    "static/media/gallery_2.jpg": "/viktorpohribnyi/school-site/static/media/gallery_2.00a9e3aec8834979777c.jpg",
-    "static/media/gallery_3.jpg": "/viktorpohribnyi/school-site/static/media/gallery_3.8cc7de39a490db45c2b9.jpg",
-    "static/media/photo_2.jpg": "/viktorpohribnyi/school-site/static/media/photo_2.1c534503e793ce85201a.jpg",
-    "static/media/teacher_2.jpg": "/viktorpohribnyi/school-site/static/media/teacher_2.f524f9bd8411db64f217.jpg",
-    "index.html": "/viktorpohribnyi/school-site/index.html",
-    "main.96620df2.css.map": "/viktorpohribnyi/school-site/static/css/main.96620df2.css.map",
-    "main.f2b78934.js.map": "/viktorpohribnyi/school-site/static/js/main.f2b78934.js.map",
-    "453.5fd958c9.chunk.js.map": "/viktorpohribnyi/school-site/static/js/453.5fd958c9.chunk.js.map"
+    "main.css": "/school-site/static/css/main.96620df2.css",
+    "main.js": "/school-site/static/js/main.167dbd3a.js",
+    "static/js/453.5fd958c9.chunk.js": "/school-site/static/js/453.5fd958c9.chunk.js",
+    "static/media/photo_5.jpg": "/school-site/static/media/photo_5.d5e7b34d3f7c3d7e073b.jpg",
+    "static/media/photo_3.jpg": "/school-site/static/media/photo_3.53183b0373ef9b5ad8ca.jpg",
+    "static/media/gallery_1.jpg": "/school-site/static/media/gallery_1.dfa31091b144acd7a408.jpg",
+    "static/media/photo_8.jpg": "/school-site/static/media/photo_8.b737cc6976f629d39ba3.jpg",
+    "static/media/teacher_3.jpg": "/school-site/static/media/teacher_3.78f36b07570f1cf7589f.jpg",
+    "static/media/photo_1.jpg": "/school-site/static/media/photo_1.7238116f5b0e3933b609.jpg",
+    "static/media/teacher_1.jpg": "/school-site/static/media/teacher_1.fef8b71649e06a89483c.jpg",
+    "static/media/photo_4.jpg": "/school-site/static/media/photo_4.4dda5f39482ccb48ae2b.jpg",
+    "static/media/photo_7.jpg": "/school-site/static/media/photo_7.ce128071a56d09bded9b.jpg",
+    "static/media/photo_6.jpg": "/school-site/static/media/photo_6.5a8fa9befda4b675af5b.jpg",
+    "static/media/gallery_2.jpg": "/school-site/static/media/gallery_2.00a9e3aec8834979777c.jpg",
+    "static/media/gallery_3.jpg": "/school-site/static/media/gallery_3.8cc7de39a490db45c2b9.jpg",
+    "static/media/photo_2.jpg": "/school-site/static/media/photo_2.1c534503e793ce85201a.jpg",
+    "static/media/teacher_2.jpg": "/school-site/static/media/teacher_2.f524f9bd8411db64f217.jpg",
+    "index.html": "/school-site/index.html",
+    "main.96620df2.css.map": "/school-site/static/css/main.96620df2.css.map",
+    "main.167dbd3a.js.map": "/school-site/static/js/main.167dbd3a.js.map",
+    "453.5fd958c9.chunk.js.map": "/school-site/static/js/453.5fd958c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96620df2.css",
-    "static/js/main.f2b78934.js"
+    "static/js/main.167dbd3a.js"
   ]
 }
